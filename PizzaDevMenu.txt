@@ -1,0 +1,95 @@
+			----------------------MENU----------------------
+
+PIZZA (srednica 32 cm)
+
+[1] Frodo									21 zl				
+sos pomidorowy, mozarella, oregano
+
+[2] Bilbo									23 zl
+sos pomidorowy, mozarella, pieczarki, szynka drobiowa, oregano
+
+[3] Aragorn									23 zl
+sos pomidorowy, mozarella, pikantne salami, jalapeno, oregano
+
+[4] Pippin									23 zl
+sos pomidorowy, mozarella, zielony groszek, kukurydza, boczek, oregano
+
+[5] Sam										24 zl
+sos pomidorowy, mozarella, salami, kabanos, biala cebula, oregano		
+
+[6] Gandalf									24 zl
+sos pomidorowy, mozarella, boczek, czerwona cebula, chilli, swiezy czosnek, 
+natka pietruszki
+
+[7] Boromir									24 zl
+sos smietanowy, mozarella, pieczarki, borowiki, biala cebula, swiezy czosnek, 
+pietruszka
+
+[8] Gollum									25 zl
+sos pomidorowy, mozarella, tunczyk, kapary, rukola
+
+[9] Merry									25 zl
+sos pomidorowy, mozarella, ser mimolette, chorizo, papryka, cebula czerwona, 
+platki chilli
+
+[10] Saruman									25 zl
+sos pomidorowy, mozarella, kurczak w przyprawach, suszone pomidory, rukola, 
+ser parmezan
+
+[11] Arwena									25 zl
+sos pomidorowy, mozarella, marynowane czarne oliwki, papryka, czerwona cebula, 
+ser feta, bazylia, pomidorki koktajlowe
+
+[12] Gimli									25 zl
+sos pomidorowy, mozarella, szynka, kabanos, salami, kurczak, oregano
+
+[13] Morgoth									26 zl
+sos ostry pomidorowy, mozarella, papryczki pepperoncini, habanero, salami pepperoni,
+ biala cebula, oregano
+
+[14] Galadriela									26 zl
+sos smietanowy, mozarella, gruszka, ser plesniowy, ocet balsamiczny, orzechy wloskie
+
+[15] Elrond									27 zl
+sos smietanowy, mozarella, boczek, swieży czosnek, czerwona cebula, natka pietruszki, 
+oregano, swiezo mielony pieprz
+
+[16] Drzewiec									27 zl
+sos pomidorowy, mozarella, rukola, suszone pomidory, zielone pesto z bazylii, 
+sloczenik
+
+[17] Ugluk									28 zl
+sos pomidorowy, mozarella, kebab drobiowy, sałata lodowa, ogórek kiszony, 
+pomidorki koktjalowe
+
+[18] Smaug									28 zl
+sos BBQ, mozarella, szarpana wieprzowina, boczek, czerwona cebula, fasola, kukurydza, 
+oregano
+
+[19] Sauron									29 zl
+sos curry, mozarella, kurczak curry, ananas, kukurydza, oregano
+
+[20] Legolas									30 zl
+sos pomidorowy, mozarella, szpinak, krewetki, pomidorki koktajlowe, ser parmezan
+
+
+NAPOJE
+
+[21] Woda mineralna niegazowana 0,33 l						3 zl
+[22] Woda mineralna gazowana 0,33 l						3 zl
+[23] Coca-cola 0,5 l								5 zl
+[24] Sprite 0,5 l								5 zl
+[25] Sok pomaranczowy 0,33 l							6 zl
+[26] Sok jablkowy								6 zl
+[27] Lemoniada 0,5 l								8 zl
+[28] Piwo pszeniczne 0,5 l							10 zl
+[29] Piwo ciemne 0,5 l								10 zl		
+
+SOSY
+
+[30] Sos pomidorowy lagodny							2 zl
+[31] Sos pomidorowy ostry							2 zl
+[32] Oliwa czosnkowa								2 zl
+[33] Sos czosnkowy								3 zl
+[34] Sos BBQ									4 zl
+[35] Sos 1000 wysp								4 zl

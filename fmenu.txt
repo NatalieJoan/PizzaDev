@@ -1,0 +1,35 @@
+Frodo                             
+Bilbo                             
+Aragorn                           
+Pippin                            
+Sam                               
+Gandalf                           
+Boromir                           
+Gollum                            
+Merry                             
+Saruman                           
+Arwena                            
+Gimli                             
+Morgoth                           
+Galadriela                        
+Elrond                            
+Drzewiec                          
+Ugluk                             
+Smaug                             
+Sauron                            
+Legolas                           
+Woda mineralna niegazowana 0,33 l 
+Woda mineralna gazowana 0,33 l    
+Coca-cola 0,5 l                   
+Sprite 0,5 l                      
+Sok pomaranczowy 0,33 l           
+Sok jablkowy 0,33 l               
+Lemoniada 0,5 l                   
+Piwo pszeniczne 0,5 l             
+Piwo ciemne 0,5 l                 
+Sos pomidorowy lagodny            
+Sos pomidorowy ostry              
+Oliwa czosnkowa                   
+Sos czosnkowy                     
+Sos BBQ                           
+Sos 1000 wysp                     
